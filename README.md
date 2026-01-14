@@ -2,7 +2,7 @@
 <h1 align="center">🌟 Hi, I'm <b>Bhargavi</b> 👋</h1>
 <h3 align="center">💻 Software Developer | Backend | Final Year CSE Student</h3>
 
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=600&size=22&duration=4000&pause=1200&color=6BB9F0&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;Backend+%7C+Spring+Boot+Lover;Learning+DSA+%26+System+Design;%26+Tech+Enthusiast" alt="Typing Animation" /> </p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=600&size=22&duration=4000&pause=1200&color=6BB9F0&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;Backend+%7C+Spring+Boot+Lover;%26+Tech+Enthusiast" alt="Typing Animation" /> </p>
 
 ---
 
