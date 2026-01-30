@@ -11,7 +11,7 @@
 ✨ Curious mind, passionate about solving real-world problems  
 🎓 Final-year **B.Tech CSE** Student  
 🚀 Working on **Spring Boot **  
-🤝 Open for collaboration on backend, AI & research based projects  
+
 
 ---
 
@@ -30,7 +30,7 @@
 | 📂 Project Name | 🛠 Tech Stack | 📄 Summary |
 |----------------|--------------|-----------|
 | **University ERP System** | Java, Spring Boot, MySQL | Role-based student/course/payment management |
-| **Event Management System** | HTML, CSS, JavaScript | Registration & event tracking interface |
+
 
 
 
